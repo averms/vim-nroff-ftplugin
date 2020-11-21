@@ -1,7 +1,7 @@
 " Vim filetype plugin
 " Language:	roff(7)
 " Maintainer:	Aman Verma
-"		Send patches to <https://github.com/a-vrma/vim-nroff-ftplugin>
+" Homepage:	https://github.com/a-vrma/vim-nroff-ftplugin
 " Previous Maintainer:	Chris Spiegel <cspiegel@gmail.com>
 " Last Change:	2020 Nov 21
 
